@@ -1,0 +1,46 @@
+/* style.css - Được tạo theo các yêu cầu từ ảnh bài tập */
+
+/* Bước 3: Quy tắc CSS cho thẻ nội dung (body) sửa đổi họ phông chữ và kích thước phông chữ */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Bước 4: Quy tắc CSS cho thẻ tiêu đề (header) sửa đổi thuộc tính màu nền */
+header {
+    background-color: #dbeeb8; /* Thay đổi màu nền tùy ý */
+}
+
+/* Bước 5: Quy tắc CSS cho thẻ nav sửa đổi thuộc tính màu nền */
+nav {
+    background-color: #333333;
+}
+
+/* Bước 6: Quy tắc CSS cho thẻ chính (main) sửa đổi màu nền và kích thước phông chữ */
+main {
+    background-color: #f9f9f9;
+    font-size: 18px;
+}
+
+/* Bước 7: Quy tắc CSS cho thẻ chân trang (footer) sửa đổi thuộc tính màu nền */
+footer {
+    background-color: #cccccc;
+}
+
+/* Bước 8: Quy tắc CSS cho thẻ li sửa đổi các thuộc tính hiển thị (display) và chiều rộng (width) */
+li {
+    display: inline-block; /* Hoặc có thể dùng block, flex tùy thiết kế */
+    width: 120px;
+}
+
+/* Bước 9: Quy tắc CSS cho thẻ h1 sửa đổi căn chỉnh văn bản (text-align), họ phông chữ (font-family) và màu sắc (color) */
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #8b0000;
+}
+
+/* Bước 10: Quy tắc CSS cho thẻ p sửa đổi thuộc tính chiều cao dòng (line-height) */
+p {
+    line-height: 1.6;
+}
